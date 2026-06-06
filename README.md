@@ -3,7 +3,7 @@
 Personal site and CV.
 Team Lead & Senior Full Stack Engineer — Ruby on Rails, React, AWS, AI tooling.
 
-**Live site:** https://olehrudko.github.io
+**Live site:** https://oleh-rudko.github.io
 **Contact:** oleg.rudko0906@gmail.com
 
 ## Stack
