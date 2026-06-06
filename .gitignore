@@ -1,0 +1,25 @@
+# Node / build scratch
+node_modules/
+package-lock.json
+package.json
+
+# Generator script (not for repo)
+cv_gen.js
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+npm-debug.log*
+
+# Local scratch
+*.tmp
+*.bak
